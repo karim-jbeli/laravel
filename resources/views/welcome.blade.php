@@ -87,7 +87,7 @@
                                     ></div>
                                 </div>
 
-                                <h2>TODO</h2>
+                                <h2>TODOS</h2>
                                 <Ul>
                                     @foreach ($todos as $todo)
                                         <li>{{$todo -> title}}</li>
